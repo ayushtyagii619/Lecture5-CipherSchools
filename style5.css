@@ -1,0 +1,21 @@
+body{
+    
+    color: brown;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+   display: flex;
+   background-color:aquamarine;
+   background-position:right top ;
+}
+div{
+    border: 2px solid black;
+    border-radius: 5px;
+    margin: 50px;
+    padding: 20px;
+    background-color: rgb(129, 129, 249);
+}
+div:hover{
+    background-color: black;
+    color: white;
+}
